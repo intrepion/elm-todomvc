@@ -1,4 +1,4 @@
-# TodoMVC in Elm - [Try It!](http://evancz.github.io/elm-todomvc)
+# TodoMVC in Elm - [Try It!](http://intrepion.github.io/elm-todomvc)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
